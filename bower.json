@@ -1,0 +1,22 @@
+{
+  "name": "opusonline-indexeddb.js",
+  "version": "0.0.1",
+  "authors": [
+    "Stefan Benicke <stefan.benicke@gmail.com>"
+  ],
+  "description": "Javascript IndexedDB Wrapper",
+  "main": "indexeddb.js",
+  "ignore": [
+    ""
+  ],
+  "keywords": [
+    "indexeddb",
+    "javascript",
+    "opusonline"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:opusonline/indexeddb.js.git"
+  },
+  "license": "MIT"
+}
